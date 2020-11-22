@@ -1,6 +1,6 @@
 {
     "ext_extension_name": { "message": "The Suspender" },
-    "ext_extension_description": { "message": "Make your computer run smoothly by suspending the tabs you aren't using, Fork of https://github.com/greatsuspender/thegreatsuspender before the extension was sold to an unknown party." },
+    "ext_extension_description": { "message": "Make your computer run smoothly by suspending the tabs you aren't using, Fork of github.com/greatsuspender/thegreatsuspender." },
     "ext_default_title": { "message": "The Suspender" },
     "ext_cmd_toggle_tab_suspension_description": { "message": "Suspend/Unsuspend active tab" },
     "ext_cmd_toggle_tab_pause_description": { "message": "Pause/Unpause suspension of active tab" },
