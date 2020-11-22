@@ -5,8 +5,7 @@
 "The Suspender" is a free and open-source Google Chrome extension for people who find that chrome is consuming too much system resource or suffer from frequent chrome crashing. It is fork from [greatsuspender/thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender) before the extension was sold to an unknown party. PLEASE SEE: https://github.com/greatsuspender/thegreatsuspender/issues/1175. The owner refuses to communicate or respond to anyone. Can only be considered as malicious/malware at this point. We have no idea what the full changes are to the code, or the ramifications of said changes.
 Once installed and enabled, this extension will automatically *suspend* tabs that have not been used for a while, freeing up memory and cpu that the tab was consuming.
 
-If you have suggestions or problems using the extension, please [submit a bug or a feature request](https://github.com/wylie39/Thesuspender/issues/). For other enquiries you can email me at greatsuspender@gmail.com.
-
+If you have suggestions or problems using the extension, please [submit a bug or a feature request](https://github.com/wylie39/Thesuspender/issues/). 
 
 ### Chrome Web Store
 
