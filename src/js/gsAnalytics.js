@@ -17,7 +17,7 @@ var gsAnalytics = (function() {
   function initAsPromised() {
     return new Promise(function(resolve) {
       try {
-        ga('create', 'UA-167314577-2', 'auto');
+        ga('create', 'UA-89411947-3', 'auto');
         ga('set', 'checkProtocolTask', function() {});
         ga('require', 'displayfeatures');
       } catch (e) {
